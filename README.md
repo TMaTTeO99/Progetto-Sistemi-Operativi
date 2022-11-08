@@ -1,4 +1,4 @@
-# Progetto-Sistemi-Operativi
+# Progetto-Sistemi-Operativi Informatica UNIPI
 
 L’applicazione è costituita da due programmi, un file storage server e un programma client.
 Il file storage è strutturato in modo da servire le diverse richieste provenienti dal programma client, fra
