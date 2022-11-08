@@ -19,5 +19,4 @@ espulsione o per una semplice lettura, manderà un messaggio di notifica al serv
 aver ricevuto il file. Ogni richiesta che il server deve soddisfare viene effettuata tramite delle
 opportune API che il client utilizza per ricevere o spedire messaggi e file.
 
-# Si tratta di un'applicazione "giocattolo", presenta molti bug, imperfezioni e non è ottimizzata al meglio, può essere considerata però come 
-# un buon esempio per vedere i meccanismi principali che vengono implementati all'interno del kernel linux. 
+# Si tratta di un'applicazione "giocattolo", presenta molti bug, imperfezioni e non è ottimizzata al meglio, può essere considerata però come un buon esempio per vedere i meccanismi principali che vengono implementati all'interno del kernel linux. 
